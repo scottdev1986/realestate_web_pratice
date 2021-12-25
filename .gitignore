@@ -3,11 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-btre_resources/
+/btre_resources
 
 # C extensions
 *.so
-
+/static
 # Distribution / packaging
 .Python
 build/
