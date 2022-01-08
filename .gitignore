@@ -1,15 +1,15 @@
 schemas.txt
+/btre_resources
+/static
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-/btre_resources
 
 # C extensions
 *.so
-/static
 # Distribution / packaging
 .Python
 build/
